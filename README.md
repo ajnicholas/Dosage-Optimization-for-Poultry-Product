@@ -1,6 +1,6 @@
 # Dosage-Optimization-for-Poultry-Product
 Product Development
-Process Development Scientist | Microsintesis| [Jun_2024]
+Microsintesis| [Jun_2024]
 Objective
 Designed and implemented a dosage model aimed at optimizing product usage during a 35-day treatment period for poultry, ensuring precise administration of a target 12 mg/kg dosage to reduce wastage and lower the cost of goods.
 
